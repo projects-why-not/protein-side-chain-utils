@@ -1,0 +1,10 @@
+{
+    "VAL": {"w_bb": {"alpha": 0.222}, 
+        "w_all": {"alpha": 0.167}},
+    "THR": {"w_bb": {"alpha": 0.301}, 
+        "w_all": {"alpha": 0.219}},
+    "CYS": {"w_bb": {"alpha": 0.36}, 
+        "w_all": {"alpha": 0.592}},
+    "SER": {"w_bb": {"alpha": 0.0005}, 
+        "w_all": {"alpha": 0.0005}}
+}

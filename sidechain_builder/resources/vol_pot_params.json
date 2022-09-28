@@ -1,0 +1,18 @@
+{
+    "VAL": {
+        "w_bb": {"vol_thr": 5.4},
+        "w_all": {"vol_thr": 10.41}
+    },
+    "CYS": {
+        "w_bb": {"vol_thr": 9.23},
+        "w_all": {"vol_thr": 18.23}
+    },
+    "SER": {
+        "w_bb": {"vol_thr": 2.23},
+        "w_all": {"vol_thr": 4.63}
+    },
+    "THR": {
+        "w_bb": {"vol_thr": 3.95},
+        "w_all": {"vol_thr": 8.55}
+    }
+}
